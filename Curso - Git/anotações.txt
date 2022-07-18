@@ -41,3 +41,17 @@ touch - cria um arquivo. (Também pode ser usado para criar arquivos dentro de d
 cd- entra no diretório selecionado
 
 clear - limpa o terminal
+
+============================================================================
+Aula 3
+============================================================================
+
+ls -a - mostra todos os diretórios inclusive os ocultos.
+
+git add ./* - adiciona arquivos em um container
+
+git commit - adiciona elementos alterados no repositório local.
+
+git log - mostra linha do tempo de commits do seu repositório local/virtual.
+
+git log --oneline - mostra a linha do tempo do de uma forma diferente.
